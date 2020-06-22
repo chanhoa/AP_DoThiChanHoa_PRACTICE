@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\AP\AP\obj\Debug\AP.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AP\AP\obj\Debug\AP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AP\AP\bin\Debug\AP.exe.config
+C:\Users\Admin\source\repos\AP\AP\bin\Debug\AP.exe
+C:\Users\Admin\source\repos\AP\AP\bin\Debug\AP.pdb
+C:\Users\Admin\source\repos\AP\AP\obj\Debug\AP.exe
+C:\Users\Admin\source\repos\AP\AP\obj\Debug\AP.pdb
